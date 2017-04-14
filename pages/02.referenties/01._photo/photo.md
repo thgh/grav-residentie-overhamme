@@ -1,5 +1,5 @@
 ---
-title: 'soon to be carousel'
+title: Foto
 body_classes: text-hidden
 ---
 
