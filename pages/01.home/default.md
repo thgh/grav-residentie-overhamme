@@ -1,6 +1,6 @@
 ---
 title: Home
-visible: true
+visible: false
 content:
     items: '@self.modular'
 ---
