@@ -3,3 +3,4 @@
 !.gitignore
 !/pages
 !/themes
+.DS_Store
