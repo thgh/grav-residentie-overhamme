@@ -13,10 +13,10 @@ U ontspant, geniet simpelweg van de tuin, de vijver of het stuk bos dat bij de r
   </span>
   <span class="col">
     ![](icon-tuinen.svg)
-    **1.4** hectare tuinen
+    **1.4** hectare tuin
   </span>
   <span class="col">
     ![](icon-garages.svg)
-    **22** garages en berging
+    **22** garages en bergingen
   </span>
 </span>
