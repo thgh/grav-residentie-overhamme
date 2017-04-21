@@ -16,6 +16,6 @@ Verkoop gebeurt eveneens via agentschap **Bricks Immobiliën**<br/>
 </span>
 
 <span class="row row--logo">
-![](penne-invest.png)
+![https://www.linkedin.com/in/franspenne/](franspenne-logo.png)
 ![http://www.bricksimmo.be](bricks-immo.png)
 </span>
