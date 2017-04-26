@@ -1,6 +1,6 @@
 ---
-title: 'Penthouses'
-subtitle: '3 luxe woonunits'
+title: Dakverdieping
+subtitle: '4 penthouses'
 ---
 
 1 penthouse met 3 slaapkamers en terras
