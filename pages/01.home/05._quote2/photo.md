@@ -1,5 +1,5 @@
 ---
-title: 'Een groene omgeving, privacy en een gevoel van veiligheid.'
+title: 'Op het zuidterras zien hoe de seizoenen veranderen en tot rust komen'
 body_classes: 'right parallax'
 visible: false
 class: top
