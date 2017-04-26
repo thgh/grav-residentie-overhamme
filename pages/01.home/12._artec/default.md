@@ -1,7 +1,7 @@
 ---
 title: Artec+
 menu: Artec+
-visible: true
+visible: false
 ---
 
 Het architectenbureau Artec+ verzorgt naast het architecturaal concept ook de project coördinatie.
