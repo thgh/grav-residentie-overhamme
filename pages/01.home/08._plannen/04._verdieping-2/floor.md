@@ -1,6 +1,6 @@
 ---
 title: 'Verdieping 2'
-subtitle: Ondertitel
+subtitle: '6 appartementen'
 ---
 
 X appartement met X slaapkamers en terras
