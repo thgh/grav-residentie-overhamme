@@ -1,8 +1,9 @@
 ---
-title: Tuinverdiep
-subtitle: '4 appartementen met tuin'
+title: Gelijkvloers
+subtitle: 'Tuinverdieping met 6 appartementen'
 ---
 
-2 appartementen met 2/3 slaapkamers, private tuin en terras. De appartementen zijn bereikbaar vanaf het gelijkvloers via de lift of trap in de centrale traphal en via de ondergrondse parkeergarage.
+-onderdeel in aanbouw-
+
 [Download hier pdf -1.0](overhouse.PNG)
 [Download hier pdf -1.1](overhouse.PNG)
