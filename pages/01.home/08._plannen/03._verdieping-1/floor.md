@@ -1,7 +1,9 @@
 ---
 title: 'Verdieping 1'
-subtitle: 'Aantal appartementen 345'
+subtitle: '6 appartementen'
 ---
+
+Details worden binnenkort gepubliceerd
 
 1 appartement met 3 slaapkamers en terras
 [Download hier pdf 1.1](overhouse.PNG)
