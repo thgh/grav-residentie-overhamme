@@ -3,7 +3,7 @@ title: Verkoop
 visible: true
 ---
 
-Residentie Bergekouter is een realisatie van Penne Building Invest. Dit project is gelegen te Aalst, (adresgegevens volgen)
+Residentie Overhamme is een realisatie van Frans Penne Invest nv. Dit project is gelegen te Aalst, Brusselsesteenweg 149-159.
 
 Voor vragen en meer informatie bel 0032 (0)472 29 17 72 
 
