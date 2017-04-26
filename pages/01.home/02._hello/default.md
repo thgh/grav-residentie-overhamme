@@ -1,10 +1,12 @@
 ---
-title: 'Zo had u eigenlijk altijd al willen wonen...'
+title: 'Waar droomt u van, als u zich een nieuwe thuis voorstelt?'
 ---
 
-In uw ruim appartement, door de grote ramen uitkijken over één van meest authentieke stukken groen van de stad, op het zuidterras zien hoe de seizoenen veranderen en tot rust komen. Het drukke verkeer is vervaagd tot een vage ruis op de achtergrond en toch is alles wat u nodig hebt binnen handbereik.
+Wat verwacht u van uw leefomgeving? Waar wil u wonen? Hoe wil u wonen? Herkent u zich bijvoorbeeld in het volgende?
 
-U ontspant, geniet simpelweg van de tuin, de vijver of het stuk bos dat bij de residentie hoort. U houdt een actieve ontspanning? Wandel naar het stedelijke zwembad, gebruik de looppiste, fiets op de volledige veilige fietsroutes naar het centrum of er net van weg, de Leirekensroute af, naar de Faluintjes, het Kravaalbos, ...
+In uw ruim appartement, door de grote ramen uitkijken over een van meest authentieke stukken groen van de stad, op het zuiderterras zien hoe de seizoenen veranderen en tot rust komen. Het verkeer is vervaagd tot een vage ruis op de achtergrond en toch is alles wat u nodig hebt binnen handbereik. Misschien had u eigenlijk altijd al zo willen wonen?
+
+Het is dat soort van woonkwaliteit die bouwheer, Frans Penne Invest nv in zijn vorig project, residentie Bergekouter, waargemaakt heeft. En dat tracht hij opnieuw te doen!
 
 <span class="row row--numbers">
   <span class="col">
@@ -13,10 +15,10 @@ U ontspant, geniet simpelweg van de tuin, de vijver of het stuk bos dat bij de r
   </span>
   <span class="col">
     ![](icon-tuinen.svg)
-    **1.4** hectare tuin
+    **3451m²** perceelsoppervlakte
   </span>
   <span class="col">
     ![](icon-garages.svg)
-    **22** garages en bergingen
+    **39** parkeerplaatsen en **24** bergingen
   </span>
 </span>
