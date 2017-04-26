@@ -1,5 +1,5 @@
 ---
-title: 'Op het zuidterras zien hoe de seizoenen veranderen en tot rust komen'
+title: 'Authentieke woonkwaliteit. Binnen en buiten.'
 body_classes: right
 ---
 
