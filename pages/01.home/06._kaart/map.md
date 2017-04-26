@@ -1,5 +1,5 @@
 ---
-title: Ligging
+title: Kaart
 visible: true
 ---
 
