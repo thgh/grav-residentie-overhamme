@@ -15,11 +15,11 @@ Het is dat soort van woonkwaliteit die bouwheer, Frans Penne Invest nv in zijn v
   </span>
   <span class="col">
     ![](icon-tuinen.svg)
-    **3451m²** perceelsoppervlakte
+    **3451m²** perceels-<br>oppervlakte
   </span>
   <span class="col">
     ![](icon-garages.svg)
-    **39** parkeerplaatsen
+    **39** parkeer-<br>plaatsen
   </span>
   <span class="col">
     ![](icon-bergingen.svg)
