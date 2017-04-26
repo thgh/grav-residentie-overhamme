@@ -1,5 +1,5 @@
 ---
-title: 'Aan de rand van de stad, met één voet in de natuur'
+title: 'Aan de rand van de stad, praktisch en handig'
 ---
 
 Daarom kozen we ook voor deze ligging: opnieuw aan de rand van de stad, vlot te
