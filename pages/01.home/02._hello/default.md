@@ -19,6 +19,10 @@ Het is dat soort van woonkwaliteit die bouwheer, Frans Penne Invest nv in zijn v
   </span>
   <span class="col">
     ![](icon-garages.svg)
-    **39** parkeerplaatsen en **24** bergingen
+    **39** parkeerplaatsen
+  </span>
+  <span class="col">
+    ![](icon-bergingen.svg)
+    **24** bergingen
   </span>
 </span>
