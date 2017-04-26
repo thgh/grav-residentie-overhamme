@@ -1,5 +1,5 @@
 ---
-title: 'Een uitgebreid gamma  ervaring en knowhow, waarbij klant-gericht ontwerpen centraal staat.'
+title: 'Een ambitieus project met een opvallende eigen identiteit'
 body_classes: 'bottom parallax'
 ---
 
