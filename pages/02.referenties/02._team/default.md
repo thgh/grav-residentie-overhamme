@@ -3,8 +3,8 @@ title: 'Een succesvol team dat zijn sporen reeds verdiende'
 body_classes: inverse
 ---
 
-Frans Penne invest lorem ipsum, is een uniek kleinschalig project bestaande uit 22 appartementen met een opvallende eigen identiteit, grote woonoppervlaktes, hoge plafonds, overvloedig verlichte woonruimtes, bijna eindeloze en zuidgerichte buitenterrassen, een groene omgeving, privacy en een gevoel van veiligheid.
+Frans Penne Invest nv is de bouwheer van dit unieke, kleinschalige project bestaande uit 22 appartementen. Een architecturaal hoogstandje met een opvallende eigen identiteit door in te zetten op grote woonoppervlaktes, hoge plafonds, overvloedig verlichte woonruimtes, ruime tuinen en zuidgerichte buitenterrassen, een groene omgeving en aandacht voor privacy en veiligheid.
   
 <br/>  
 
-[![hallo](logo-linkedin-wit.svg)](https://linkedin.com)
+[![hallo](logo-linkedin-wit.svg)](https://www.linkedin.com/in/franspenne/)
