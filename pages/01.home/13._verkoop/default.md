@@ -5,8 +5,8 @@ visible: true
 
 Residentie Overhamme is een realisatie van Frans Penne Invest nv. Dit project is gelegen te Aalst, Brusselsesteenweg 149-159.
 
-Hebt u vragen, wenst u meer info over het project of wilt u een afspraak, we helpen je met plezier verder.
-Bel of mail ons gerust. **Bricks Immobiliën**<br/>
+**Bricks Immobiliën** staat in voor de verkoop van de appartementen. Hebt u vragen, wenst u meer info over het project of wilt u een afspraak, we helpen je met plezier verder.
+Bel of mail ons gerust.<br><br>
 tel. +32 (0)53 70 80 90<br/>
 [info@bricksimmo.be](mailto:info@bricksimmo.be)<br/>
 [www.bricksimmo.be](http://www.bricksimmo.be)<br/>
