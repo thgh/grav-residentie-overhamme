@@ -3,7 +3,8 @@ title: Dakverdieping
 subtitle: '4 penthouses'
 ---
 
-X penthouse met X slaapkamers en terras
-[Download hier pdf 4.1](overhouse.PNG)
+Details worden binnenkort gepubliceerd
+
+[Download hier pdf (under construction)]()
 
 
