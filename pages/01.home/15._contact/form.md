@@ -1,5 +1,6 @@
 ---
 title: 'Contact opnemen'
+body_classes: 'text inverse'
 form:
     id: contact-bottom
     template: form-messages
