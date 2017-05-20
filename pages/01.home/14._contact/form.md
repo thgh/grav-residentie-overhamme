@@ -19,39 +19,41 @@ form:
             label: 'Voornaam + naam'
             autocomplete: 'on'
             type: text
+            outerclasses: col-5
             validate:
                 required: true
         -
             name: email
             label: E-mail
             type: email
-            outerclasses: floating
+            outerclasses: floating col-2
         -
             name: phone
             label: Telefoon
             type: tel
-            outerclasses: floating
+            outerclasses: col-3
         -
             name: streetAddress
             label: 'Straat + nr'
             type: text
-            outerclasses: floating
+            outerclasses: floating col-2
         -
             name: zip
             label: Postcode
             type: text
             classes: input-xs
-            outerclasses: floating
+            outerclasses: floating col-1
         -
             name: city
             label: Gemeente
             type: text
-            outerclasses: floating
+            outerclasses: col-2
         -
             name: message
             label: Bericht
             placeholder: 'Stel hier je vragen...'
             type: textarea
+            outerclasses: col-5
             validate:
                 required: true
     buttons:
