@@ -17,7 +17,6 @@ form:
         -
             name: name
             label: 'Voornaam + naam'
-            autofocus: 'on'
             autocomplete: 'on'
             type: text
             validate:
