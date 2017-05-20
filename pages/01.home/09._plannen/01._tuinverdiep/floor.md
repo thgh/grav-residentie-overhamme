@@ -3,7 +3,6 @@ title: Gelijkvloers
 subtitle: 'Tuinverdieping met 6 appartementen'
 ---
 
-
 [Download verkoopsplan-0.1.pdf](Verkoopsplan-0.1.pdf)
 [Download verkoopsplan-0.2.pdf](Verkoopsplan-0.2.pdf)
 [Download verkoopsplan-0.3.pdf](Verkoopsplan-0.3.pdf)
