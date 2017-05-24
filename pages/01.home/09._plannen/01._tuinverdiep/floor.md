@@ -5,7 +5,7 @@ subtitle: 'Tuinverdieping met 6 appartementen'
 
 Reeds 2 appartementen verkocht 
 
-[Download verkoopsplan-0.1.pdf](Verkoopsplan-0.1.pdf)
+[Download verkoopsplan-0.1.pdf (verkocht)](Verkoopsplan-0.1.pdf)
 [Download verkoopsplan-0.2.pdf](Verkoopsplan-0.2.pdf)
 [Download verkoopsplan-0.3.pdf](Verkoopsplan-0.3.pdf)
 [Download verkoopsplan-0.4.pdf](Verkoopsplan-0.4.pdf)
