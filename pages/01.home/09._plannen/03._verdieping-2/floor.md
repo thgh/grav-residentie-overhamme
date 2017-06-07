@@ -3,7 +3,7 @@ title: 'Verdieping 2'
 subtitle: '6 appartementen'
 ---
 
-[Download verkoopsplan VERDIEPING +2](Verkoopsplan-VERDIEPING%20+2.pdf)
+[Download verkoopsplan VERDIEPING +2](Verkoopsplan-VERDIEPING2.pdf)
 
 [Download verkoopsplan-2.1.pdf](Verkoopsplan-2.1.pdf)
 [Download verkoopsplan-2.2.pdf](Verkoopsplan-2.2.pdf)
