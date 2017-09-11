@@ -3,4 +3,6 @@
 !.gitignore
 !/pages
 !/themes
+/themes/*
+!/themes/immo
 .DS_Store

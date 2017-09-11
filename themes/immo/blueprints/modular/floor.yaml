@@ -1,0 +1,8 @@
+title: Floor
+'@extends': default
+
+form:
+  fields:
+    header.subtitle:
+      type: text
+      label: Ondertitel
