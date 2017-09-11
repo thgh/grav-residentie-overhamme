@@ -1,4 +1,0 @@
-[submodule "themes/immo"]
-	path = themes/immo
-	url = https://github.com/thgh/grav-theme-immo.git
-	branch = master
