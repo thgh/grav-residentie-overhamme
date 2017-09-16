@@ -5,10 +5,10 @@ use Grav\Common\Plugin;
 use Grav\Common\Utils;
 
 /**
- * Class GoogleMapsPlugin
+ * Class GooglemapsReloadedPlugin
  * @package Grav\Plugin
  */
-class GoogleMapsPlugin extends Plugin
+class GooglemapsReloadedPlugin extends Plugin
 {
     /**
      * @return array

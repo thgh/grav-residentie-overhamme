@@ -1,0 +1,30 @@
+name: Google Maps Reloaded
+version: 0.1.0
+description: Google API key is hardcoded in this theme
+icon: code
+author:
+  name: Salvatore Guarino
+  email: sg@deved.it
+homepage: https://github.com/thgh/grav-plugin-googlemaps-reloaded
+demo: https://github.com/thgh/grav-plugin-googlemaps-reloaded
+keywords: grav, plugin, google maps
+bugs: https://github.com/thgh/grav-plugin-googlemaps-reloaded/issues
+readme: https://github.com/thgh/grav-plugin-googlemaps-reloaded/blob/master/README.md
+license: MIT
+
+dependencies:
+  - shortcode-core
+
+form:
+  validation: strict
+  fields:
+    enabled:
+      type: toggle
+      label: Plugin status
+      highlight: 1
+      default: 0
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool

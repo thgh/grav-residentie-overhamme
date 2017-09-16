@@ -9,7 +9,7 @@
 
 !/plugins
 /plugins/*
-!/plugins/google-maps
+!/plugins/googlemaps-reloaded
 
 !/themes
 /themes/*
