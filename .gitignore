@@ -5,4 +5,7 @@
 !/themes
 /themes/*
 !/themes/immo
+!/plugins
+/plugins/*
+!/plugins/google-maps
 .DS_Store
