@@ -1,5 +1,4 @@
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/5095cbca-468e-4807-8a4c-3c744dba38a0/mini.png)](https://insight.sensiolabs.com/projects/5095cbca-468e-4807-8a4c-3c744dba38a0)
-# Grav Google Maps Plugin
+# Temp
 
 ## About
 
@@ -9,8 +8,9 @@ The **Google Maps** plugin provides the Google Maps Javascript API as shortcode.
 
 Typically a plugin should be installed via [GPM](http://learn.getgrav.org/advanced/grav-gpm) (Grav Package Manager):
 
-```
-$ bin/gpm install google-maps
+```bash
+# Not available
+bin/gpm install googlemaps-reloaded
 ```
 
 Alternatively it can be installed via the [Admin Plugin](http://learn.getgrav.org/admin-panel/plugins)
@@ -27,10 +27,10 @@ google_api_key:
 ## Quick Example
 
 ```
-[google-maps width='100%' lat=44.540 lng=-78.546 zoom=13 scrollwheel=true panControl=true iconurl='/absolute/path/to/marker/icon.png']
+[googlemaps-reloaded width='100%' lat=44.540 lng=-78.546 zoom=13 scrollwheel=true panControl=true iconurl='/absolute/path/to/marker/icon.png']
 ***My Place***
 This is my place
-[/google-maps]
+[/googlemaps-reloaded]
 ```
 
 ## Available Parameters

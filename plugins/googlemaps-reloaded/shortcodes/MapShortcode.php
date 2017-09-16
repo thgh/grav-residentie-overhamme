@@ -9,9 +9,9 @@ class MapShortcode extends Shortcode
 {
     public function init()
     {
-        $apikey = $this->grav['config']->get('plugins.google-maps.google_api_key');
+        $apikey = $this->grav['config']->get('plugins.googlemaps-reloaded.google_api_key');
 
-        $this->shortcode->getHandlers()->add('google-maps', function(ShortcodeInterface $sc) use ($apikey) {
+        $this->shortcode->getHandlers()->add('googlemaps-reloaded', function(ShortcodeInterface $sc) use ($apikey) {
 
             // Google Maps JS
             // $this->grav['assets']->addJs('//maps.googleapis.com/maps/api/js?callback=initGoogleMaps&key=' . $apikey,
@@ -20,12 +20,12 @@ class MapShortcode extends Shortcode
 
             // Add assets
             $this->shortcode->addAssets('js', 'jquery');
-            $this->shortcode->addAssets('js', 'plugin://google-maps/js/google-maps.js');
+            $this->shortcode->addAssets('js', 'plugin://googlemaps-reloaded/js/googlemaps-reloaded.js');
 
             $hash = $this->shortcode->getId($sc);
             $infowindow = $sc->getContent();
 
-            $output = $this->twig->processTemplate('partials/google-maps.html.twig', [
+            $output = $this->twig->processTemplate('partials/googlemaps-reloaded.html.twig', [
                 'hash' => $hash,
                 'width' => $sc->getParameter('width', '600px'),
                 'height' => $sc->getParameter('height', '400px'),
