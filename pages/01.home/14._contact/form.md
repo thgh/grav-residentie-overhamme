@@ -6,6 +6,7 @@ visible: true
 form:
     id: contact-bottom
     template: form-messages
+    action: /home
     fields:
         -
             name: aanhef
@@ -26,7 +27,7 @@ form:
             name: email
             label: E-mail
             type: email
-            outerclasses: floating col-2
+            outerclasses: 'floating col-2'
         -
             name: phone
             label: Telefoon
@@ -36,13 +37,13 @@ form:
             name: streetAddress
             label: 'Straat + nr'
             type: text
-            outerclasses: floating col-2
+            outerclasses: 'floating col-2'
         -
             name: zip
             label: Postcode
             type: text
             classes: input-xs
-            outerclasses: floating col-1
+            outerclasses: 'floating col-1'
         -
             name: city
             label: Gemeente

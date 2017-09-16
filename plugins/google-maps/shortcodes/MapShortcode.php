@@ -10,12 +10,18 @@ class MapShortcode extends Shortcode
     public function init()
     {
         $apikey = $this->grav['config']->get('plugins.google-maps.google_api_key');
-        $apikeystring = ($apikey) ? "?key=$apikey" : "";
-        $this->shortcode->getHandlers()->add('google-maps', function(ShortcodeInterface $sc) use ($apikeystring) {
 
-            //add assets
-            $this->grav['assets']->addJs('//maps.googleapis.com/maps/api/js'.$apikeystring);
-            $this->grav['assets']->addJs('plugin://google-maps/js/google-maps.js');
+        $this->shortcode->getHandlers()->add('google-maps', function(ShortcodeInterface $sc) use ($apikey) {
+
+            // Google Maps JS
+            // $this->grav['assets']->addJs('//maps.googleapis.com/maps/api/js?callback=initGoogleMaps&key=' . $apikey,
+            //     ['pipeline' => false]
+            // );
+
+            // Add assets
+            $this->shortcode->addAssets('js', 'jquery');
+            $this->shortcode->addAssets('js', 'plugin://google-maps/js/google-maps.js');
+
             $hash = $this->shortcode->getId($sc);
             $infowindow = $sc->getContent();
 

@@ -21,29 +21,21 @@
   <link rel="canonical" href="{{ page.url(true, true) }}" />
 
   {% block stylesheets %}
-    {% do assets.addCss('https://fonts.googleapis.com/css?family=Oxygen:400,700|Rufina:400,700', 9) %}
-    {% do assets.addCss('theme://css/main.css', 2) %}
-    {% do assets.addCss('theme://css/carousel.css', 2) %}
+    {% do assets.addCss('https://fonts.googleapis.com/css?family=Oxygen:400,700|Rufina:400,700', {'group': 'top'}) %}
+    {% do assets.addCss('theme://css/main.css', {'group': 'top'}) %}
+    {% do assets.addCss('theme://css/carousel.css', {'group': 'top'}) %}
   {% endblock %}
-  {{ assets.css() }}
+  {{ assets.css('top', {'loading': 'inline'}) }}
 
   {% block javascripts %}
-    {% do assets.add('theme://js/util.js') %}
+    {% do assets.addJs('theme://js/util.js', { 'group': 'top' }) %}
+    {% do assets.addJs('theme://js/sticky-nav.js', { 'group': 'top' }) %}
 
-    {% do assets.add('jquery') %}
-    {% do assets.add('theme://js/parallax.js') %}
-
-    {% do assets.add('theme://js/sticky-nav.js') %}
-    {% do assets.add('theme://js/scrollspy.js', {'loading':'async', 'group':'bottom'}) %}
-    {% do assets.add('theme://js/smooth-scroll.js', {'loading':'async', 'group':'bottom'}) %}
-    {% do assets.add('theme://js/toggle-nav.js', {'loading':'async', 'group':'bottom'}) %}
-    {% do assets.add('theme://js/carousel.js', {'loading':'async', 'group':'bottom'}) %}
+    {% do assets.addJs('theme://js/scrollspy.js', { 'loading': 'async defer' }) %}
+    {% do assets.addJs('theme://js/smooth-scroll.js', { 'loading': 'async defer' }) %}
+    {% do assets.addJs('theme://js/toggle-nav.js', { 'loading': 'async defer' }) %}
   {% endblock %}
-
-  {% do assets.add('jquery', {'group':'top'}) %}
-  {{ assets.js('top') }}
-
-  {{ assets.js() }}
+  {{ assets.js('top', {'loading': 'inline'}) }}
 
 {% endblock head %}
 </head>
@@ -138,8 +130,11 @@
 {% endblock %}
 
 {% block bottom %}
-  {{ assets.js('bottom') }}
+  {{ assets.js() }}
 {% endblock %}
+
+{# Hack to avoid pipeline bug #}
+<script async defer src="https://maps.googleapis.com/maps/api/js?callback=initGoogleMaps&key=AIzaSyDx6JC6CXPzeyNX-23l3z3iY5WQl6dRcD4"></script>
 
 </body>
 </html>

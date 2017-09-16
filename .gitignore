@@ -1,11 +1,18 @@
 /*
-!.gitmodules
 !.gitignore
+
+# !/config
+# /config/*
+# !/config/system.yaml
+
 !/pages
-!/themes
-/themes/*
-!/themes/immo
+
 !/plugins
 /plugins/*
 !/plugins/google-maps
+
+!/themes
+/themes/*
+!/themes/immo
+
 .DS_Store

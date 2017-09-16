@@ -1,4 +1,4 @@
-jQuery(document).ready(function () {
+function initGoogleMaps () {
     var $mapDivs = $('.google-map');
     $mapDivs.each(function (index) {
         var lat = parseFloat($(this).data('lat'));
@@ -38,4 +38,4 @@ jQuery(document).ready(function () {
             infowindow.open(map, marker);
         }
     });
-});
+}
