@@ -30,10 +30,6 @@
   {% block javascripts %}
     {% do assets.addJs('theme://js/util.js', { 'group': 'top' }) %}
     {% do assets.addJs('theme://js/sticky-nav.js', { 'group': 'top' }) %}
-
-    {% do assets.addJs('theme://js/scrollspy.js', { 'loading': 'async defer' }) %}
-    {% do assets.addJs('theme://js/smooth-scroll.js', { 'loading': 'async defer' }) %}
-    {% do assets.addJs('theme://js/toggle-nav.js', { 'loading': 'async defer' }) %}
   {% endblock %}
   {{ assets.js('top', {'loading': 'inline'}) }}
 
@@ -130,6 +126,11 @@
 {% endblock %}
 
 {% block bottom %}
+  {% do assets.addJs('jquery', { 'priority': 100 }) %}
+  {% do assets.addJs('theme://js/parallax.js', { 'priority': 4, 'loading': 'async defer' }) %}
+  {% do assets.addJs('theme://js/scrollspy.js', { 'loading': 'async defer' }) %}
+  {% do assets.addJs('theme://js/smooth-scroll.js', { 'loading': 'async defer' }) %}
+  {% do assets.addJs('theme://js/toggle-nav.js', { 'loading': 'async defer' }) %}
   {{ assets.js() }}
 {% endblock %}
 
