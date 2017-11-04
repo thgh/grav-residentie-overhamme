@@ -62,15 +62,15 @@ form:
             value: Versturen
     process:
         -
-            email:
-                subject: '[residentieoverhamme.be] {{ form.value.name|e }}'
-                body: '{% include ''forms/data.html.twig'' %}'
-        -
             save:
                 fileprefix: contact-
                 dateformat: Ymd-His-u
                 extension: txt
                 body: '{% include ''forms/data.txt.twig'' %}'
+        -
+            email:
+                subject: '[residentieoverhamme.be] {{ form.value.name|e }}'
+                body: '{% include ''forms/data.html.twig'' %}'
         -
             message: 'Dank u wel voor de interesse!'
 ---
