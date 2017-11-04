@@ -1,7 +1,7 @@
 ---
 title: 'Contact opnemen'
 body_classes: 'text inverse'
-visible: true
+menu: Contact
 form:
     id: contact-bottom
     template: form-messages
