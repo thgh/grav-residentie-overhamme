@@ -534,6 +534,19 @@ h2 {
   margin: 0 -1rem;
 }
 
+.row--immo {
+  justify-content: center;
+}
+
+.row--immo span.immo img{
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 128px;
+  margin: 2rem;
+  margin-left: -0.2rem;
+}
+
 .row--numbers {
   justify-content: space-between;
   text-align: center;
@@ -577,29 +590,20 @@ h2 {
   }
 }
 
-/* Blueprints > Bouw */
 
-.image-surround {
-    width: 100%;
-    max-width: 600px;
-    padding: .5rem;
-    border: 0 solid grey
+@media (max-width: 600px) {
+  .row.row--immo{
+    display: block;
+    flex-wrap: nowrap;
+  }
+  span.immo{
+    display: block;
+    margin-left: 1rem;
+  }
 }
-.image-surround img {
-    width: 100%;
-    height: auto
-}
-.image-surround .caption {
-    font-size: .75rem;
-    color: #898989
-}
-@media (min-width: 450px) {
-    .image-surround {
-        width: 50%;
-        max-width: 600px;
-        padding: .5rem
-    }
-}
+
+
+
 
 /* Section spacing */
 
@@ -713,3 +717,25 @@ p a {
   font-weight: inherit;
 }
 
+/* Bouw */
+.image-surround{
+  width:100%;
+  max-width: 600px;
+  padding:0.5rem;
+  border:0px solid grey;
+}
+.image-surround img{
+  width:100%;
+  height:auto;
+}
+.image-surround .caption{
+  font-size: 0.75rem;
+  color: #898989;
+}
+@media (min-width: 450px) {
+  .image-surround{
+    width:50%;
+    max-width: 600px;
+    padding:0.5rem;
+  }
+}
