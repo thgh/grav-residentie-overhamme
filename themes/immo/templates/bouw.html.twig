@@ -1,0 +1,35 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<section class="floors {{ page.header.body_classes }}">
+  <div class="container">
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+    <div class="row">
+      {% for image in page.media.images %}
+          <div class="image-surround">
+              {{ image.cropResize(600,400).html }}
+              <p class="caption">{{ image.meta.description }}</p>
+          </div>
+          <!-- <div class="image-info">
+              <h2>{{ image.meta.title }}</h2>
+              <p>{{ image.meta.description }}</p>
+          </div> -->
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}
+
+{% block header_title %}
+<div class="header__title">
+  <div class="header__hidden">
+    {{ parent() }}
+  </div>
+  <div class="header__logo">
+    <span class="residentie">Residentie</span>
+    <span class="overhamme">Overhamme</span>
+    <span class="realisatie">Realisatie Frans Penne Invest nv</span>
+  </div>
+</div>
+{% endblock %}

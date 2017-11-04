@@ -577,6 +577,29 @@ h2 {
   }
 }
 
+/* Blueprints > Bouw */
+
+.image-surround {
+    width: 100%;
+    max-width: 600px;
+    padding: .5rem;
+    border: 0 solid grey
+}
+.image-surround img {
+    width: 100%;
+    height: auto
+}
+.image-surround .caption {
+    font-size: .75rem;
+    color: #898989
+}
+@media (min-width: 450px) {
+    .image-surround {
+        width: 50%;
+        max-width: 600px;
+        padding: .5rem
+    }
+}
 
 /* Section spacing */
 
@@ -689,3 +712,4 @@ p a {
   color: inherit;
   font-weight: inherit;
 }
+
