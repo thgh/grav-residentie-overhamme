@@ -26,9 +26,6 @@
         {% endif  %}
       {% endfor %}
     </div>
-    {% do assets.add('theme://js/carousel.js', { 'loading': 'async defer' }) %}
+    <script src="/user/themes/immo/js/carousel.js" type="text/javascript" async defer></script>
   {% endif  %}
 </section>
-
-{% do assets.add('jquery', { 'priority': 100 }) %}
-{% do assets.add('theme://js/parallax.js', { 'priority': 4, 'loading': 'async defer' }) %}
